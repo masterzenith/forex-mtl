@@ -3,7 +3,7 @@ version: "3.6"
 services:
 
   oneframe:
-    image: "paidyinc/one-frame:v0.1"
+    image: "paidyinc/one-frame:latest"
     ports:
       - "8080:8080"
 
